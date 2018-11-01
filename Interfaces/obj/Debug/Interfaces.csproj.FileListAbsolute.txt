@@ -1,0 +1,6 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

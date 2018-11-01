@@ -1,0 +1,6 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\bin\Debug\Example2.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\bin\Debug\Example2.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\bin\Debug\Example2.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\obj\Debug\Example2.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\Inheritance\Example2\obj\Debug\Example2.pdb

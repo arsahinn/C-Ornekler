@@ -1,0 +1,9 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.Cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb

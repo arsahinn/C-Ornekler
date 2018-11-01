@@ -1,0 +1,6 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\bin\Debug\MathMetot.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\bin\Debug\MathMetot.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\bin\Debug\MathMetot.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\obj\Debug\MathMetot.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\obj\Debug\MathMetot.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\MathMetot\MathMetot\obj\Debug\MathMetot.pdb

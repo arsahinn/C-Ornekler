@@ -1,0 +1,6 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\bin\Debug\Metodlar.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\obj\Debug\Metodlar.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\obj\Debug\Metodlar.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\Metodlar\Metodlar\obj\Debug\Metodlar.pdb

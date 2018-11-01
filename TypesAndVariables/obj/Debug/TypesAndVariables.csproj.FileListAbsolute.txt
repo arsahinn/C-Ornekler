@@ -1,0 +1,6 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csprojResolveAssemblyReference.cache
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

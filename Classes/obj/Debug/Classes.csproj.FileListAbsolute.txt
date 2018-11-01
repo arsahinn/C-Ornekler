@@ -1,0 +1,5 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Classes\obj\Debug\Classes.pdb

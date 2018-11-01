@@ -1,0 +1,5 @@
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Mr. SAHIN\Desktop\c# folder\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb
